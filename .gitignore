@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.env
+.venv/
+*original_submission*
+*student_id*
